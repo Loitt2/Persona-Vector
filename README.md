@@ -23,10 +23,7 @@ Einordnung: Post-hoc, Mechanistic Interpretability, Decoder-Transformer, Differe
 Die vollständige Dokumentation mit Methoden, Plots, Ergebnissen und Grenzen steht im Notebook
 [`notebooks/persona_vectors_qwen3.ipynb`](notebooks/persona_vectors_qwen3.ipynb). Es ist schon ausgeführt gespeichert, alle Plots und Ergebnisse sind also direkt drin.
 
-Die Specs, die man zum selbst Ausführen braucht, hat die KI zusammengefasst. Bestätigen kann ich sie nicht, getestet ist es nur auf meinem Rechner:
-
-- **Notebook neu ausführen:** Python 3.12 und die Pakete aus `requirements.txt`. Keine GPU, kein API-Key.
-- **Experimente neu rechnen:** NVIDIA-GPU mit rund 12 GB (bei mir RTX 5070 Ti mit 16 GB), CUDA 13.0, rund 8 GB Download für das Modell und ein Anthropic-API-Key.
+Wer es selbst ausführen will: `requirements.txt` ist die Liste aller Pakete aus meiner Python-Umgebung (`pip freeze`), installiert wird alles mit `pip install -r requirements.txt`. Wirklich gebraucht werden fürs Notebook nur pandas, numpy, matplotlib, scipy, torch und jupyter. Für die Experimente kommen transformers, accelerate und anthropic dazu, außerdem eine NVIDIA-GPU mit rund 12 GB und ein Anthropic-API-Key. Getestet habe ich das nur auf meinem Rechner (RTX 5070 Ti, Python 3.12).
 
 ## Daten und Modelle
 
