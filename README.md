@@ -21,9 +21,9 @@ Einordnung: Post-hoc, Mechanistic Interpretability, Decoder-Transformer, Differe
 ## Ergebnisse und Dokumentation
 
 Die vollständige Dokumentation mit Methoden, Plots, Ergebnissen und Grenzen steht im Notebook
-[`notebooks/persona_vectors_qwen3.ipynb`](notebooks/persona_vectors_qwen3.ipynb). Es ist bereits ausgeführt gespeichert:
-Alle Abbildungen, Tabellen und Ergebnisse sind in der Datei enthalten und ohne Installation lesbar, auch direkt auf GitHub.
-Wer möchte, kann das Notebook zusätzlich selbst ausführen (siehe Setup); nötig ist das nicht.
+[`notebooks/persona_vectors_qwen3.ipynb`](notebooks/persona_vectors_qwen3.ipynb). Es ist schon ausgeführt gespeichert, alle Plots und Ergebnisse sind also direkt drin.
+Man kann es einfach durchklicken, auch direkt auf GitHub, ohne etwas zu installieren.
+Wer es trotzdem selbst laufen lassen will: geht auch, siehe Setup. Nötig ist es aber nicht.
 
 ## Daten und Modelle
 
