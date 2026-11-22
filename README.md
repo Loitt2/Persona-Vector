@@ -4,9 +4,9 @@ Projekt zur Vorlesung Explainable AI: Übertragung der Befunde von Chen et al. (
 
 | | |
 |---|---|
-| Name | [Name eintragen] |
-| Matrikelnummer | [Matrikelnummer eintragen] |
-| E-Mail | [E-Mail eintragen] |
+| Name | Leonardo Risatii |
+| Matrikelnummer | 3913123 |
+| E-Mail | inf24074@lehre.dhbw-stuttgart.de |
 | GitHub | https://github.com/Loitt2/Persona-Vector |
 
 ## Forschungsfrage
